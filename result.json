@@ -1,0 +1,194 @@
+{
+	"Message1": "ALL THE PUBLISHED COURSE",
+	"query1": [
+		{
+			"date": "2021-01-10T17:43:15.808Z",
+			"_id": "5ffb3cb87c30a525e0b98c5f",
+			"tags": "Frontend",
+			"name": "React",
+			"author": "Jordan Walke",
+			"isPublished": true,
+			"price": 5000,
+			"__v": 0
+		},
+		{
+			"date": "2021-01-10T17:43:15.808Z",
+			"_id": "5ffb3d227c30a525e0b98c60",
+			"tags": "Frontend",
+			"name": "Vuejs",
+			"author": "Evan You",
+			"isPublished": true,
+			"price": 9000,
+			"__v": 0
+		},
+		{
+			"date": "2021-01-10T17:43:15.808Z",
+			"_id": "5ffb40dd7c30a525e0b98c64",
+			"tags": "Backend",
+			"name": "Nodejs",
+			"author": "Ryan Dahl",
+			"isPublished": true,
+			"price": 8000,
+			"__v": 0
+		},
+		{
+			"date": "2021-01-10T17:43:15.808Z",
+			"_id": "5ffb42277c30a525e0b98c66",
+			"tags": "Backend",
+			"name": "Expressjs",
+			"author": "TJ Holowaychuk",
+			"isPublished": true,
+			"price": 10000,
+			"__v": 0
+		}
+	],
+	"Message2": "TAGS THAT DOESN'T INCLUDE BACKEND",
+	"query2": [
+		{
+			"date": "2021-01-10T17:43:15.808Z",
+			"_id": "5ffb3cb87c30a525e0b98c5f",
+			"tags": "Frontend",
+			"name": "React",
+			"author": "Jordan Walke",
+			"isPublished": true,
+			"price": 5000,
+			"__v": 0
+		},
+		{
+			"date": "2021-01-10T17:43:15.808Z",
+			"_id": "5ffb3d227c30a525e0b98c60",
+			"tags": "Frontend",
+			"name": "Vuejs",
+			"author": "Evan You",
+			"isPublished": true,
+			"price": 9000,
+			"__v": 0
+		},
+		{
+			"date": "2021-01-10T17:43:15.808Z",
+			"_id": "5ffb3db17c30a525e0b98c62",
+			"tags": "Frontend",
+			"name": "HTML",
+			"author": "Evan You",
+			"isPublished": false,
+			"price": 3000,
+			"__v": 0
+		},
+		{
+			"date": "2021-01-10T17:43:15.808Z",
+			"_id": "5ffb404a7c30a525e0b98c63",
+			"tags": "Frontend",
+			"name": "Bootstrap",
+			"author": "Jordan",
+			"isPublished": false,
+			"price": 4000,
+			"__v": 0
+		}
+	],
+	"Message3": "SORT COURSE IN A DESCENDING ORDER BY COURSE PRICE",
+	"query3": [
+		{
+			"date": "2021-01-10T17:43:15.808Z",
+			"_id": "5ffb42a57c30a525e0b98c67",
+			"tags": "Backend",
+			"name": "Django",
+			"author": "T Jack",
+			"isPublished": false,
+			"price": 15000,
+			"__v": 0
+		},
+		{
+			"date": "2021-01-10T17:43:15.808Z",
+			"_id": "5ffb41c87c30a525e0b98c65",
+			"tags": "Backend",
+			"name": "MongoDb",
+			"author": "Ryan Dahl",
+			"isPublished": false,
+			"price": 12000,
+			"__v": 0
+		},
+		{
+			"date": "2021-01-10T17:43:15.808Z",
+			"_id": "5ffb42277c30a525e0b98c66",
+			"tags": "Backend",
+			"name": "Expressjs",
+			"author": "TJ Holowaychuk",
+			"isPublished": true,
+			"price": 10000,
+			"__v": 0
+		},
+		{
+			"date": "2021-01-10T17:43:15.808Z",
+			"_id": "5ffb3d227c30a525e0b98c60",
+			"tags": "Frontend",
+			"name": "Vuejs",
+			"author": "Evan You",
+			"isPublished": true,
+			"price": 9000,
+			"__v": 0
+		},
+		{
+			"date": "2021-01-10T17:43:15.808Z",
+			"_id": "5ffb40dd7c30a525e0b98c64",
+			"tags": "Backend",
+			"name": "Nodejs",
+			"author": "Ryan Dahl",
+			"isPublished": true,
+			"price": 8000,
+			"__v": 0
+		},
+		{
+			"date": "2021-01-10T17:43:15.808Z",
+			"_id": "5ffb3cb87c30a525e0b98c5f",
+			"tags": "Frontend",
+			"name": "React",
+			"author": "Jordan Walke",
+			"isPublished": true,
+			"price": 5000,
+			"__v": 0
+		},
+		{
+			"date": "2021-01-10T17:43:15.808Z",
+			"_id": "5ffb404a7c30a525e0b98c63",
+			"tags": "Frontend",
+			"name": "Bootstrap",
+			"author": "Jordan",
+			"isPublished": false,
+			"price": 4000,
+			"__v": 0
+		},
+		{
+			"date": "2021-01-10T17:43:15.808Z",
+			"_id": "5ffb3db17c30a525e0b98c62",
+			"tags": "Frontend",
+			"name": "HTML",
+			"author": "Evan You",
+			"isPublished": false,
+			"price": 3000,
+			"__v": 0
+		}
+	],
+	"Message4": "COURSE WHERE PRICE IS NOT EQUAL TO AND IS GREATER 10,000",
+	"query4": [
+		{
+			"date": "2021-01-10T17:43:15.808Z",
+			"_id": "5ffb41c87c30a525e0b98c65",
+			"tags": "Backend",
+			"name": "MongoDb",
+			"author": "Ryan Dahl",
+			"isPublished": false,
+			"price": 12000,
+			"__v": 0
+		},
+		{
+			"date": "2021-01-10T17:43:15.808Z",
+			"_id": "5ffb42a57c30a525e0b98c67",
+			"tags": "Backend",
+			"name": "Django",
+			"author": "T Jack",
+			"isPublished": false,
+			"price": 15000,
+			"__v": 0
+		}
+	]
+}
